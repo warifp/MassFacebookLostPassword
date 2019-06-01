@@ -8,4 +8,4 @@ Mass Generate Facebook Lost Password With List or Username Email.
 # Install Requirements
 - pip install -r requirements.txt
 
-* Support Python2
+## Support Python2

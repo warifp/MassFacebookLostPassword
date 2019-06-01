@@ -2,5 +2,5 @@
 Mass Generate Facebook Lost Password With List or Username Email.
 
 # Requirements
-Download Chrome Drivers : http://chromedriver.chromium.org/downloads
-and Extract in Folder MassFacebookLostPassword
+1. Download Chrome Drivers : http://chromedriver.chromium.org/downloads
+2. and Extract in Folder MassFacebookLostPassword

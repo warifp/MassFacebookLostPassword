@@ -21,7 +21,7 @@ pipreqs==0.4.9
 post==2019.4.13
 prompt-toolkit==1.0.16
 public==2019.4.13
-Pygments==2.4.2
+Pygments==2.7.4
 pylint==1.9.4
 query-string==2019.4.13
 request==2019.4.13
